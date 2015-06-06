@@ -27,6 +27,8 @@ int main(int argc, const char * argv[]) {
         
         NSLog(@"%i", answer);
         
+        int i = 2;
+        
     }
     return 0;
 }
