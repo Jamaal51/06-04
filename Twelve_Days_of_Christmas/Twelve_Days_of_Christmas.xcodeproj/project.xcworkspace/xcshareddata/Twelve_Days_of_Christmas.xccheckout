@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1E734811-85DC-4696-8402-988A02C15B7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Twelve_Days_of_Christmas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4AD6F3E7FC6687A9552E12627893E076E3CE37BC</key>
+		<string>https://github.com/Jamaal51/06-04.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Twelve_Days_of_Christmas/Twelve_Days_of_Christmas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4AD6F3E7FC6687A9552E12627893E076E3CE37BC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Jamaal51/06-04.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4AD6F3E7FC6687A9552E12627893E076E3CE37BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4AD6F3E7FC6687A9552E12627893E076E3CE37BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>06-04</string>
+		</dict>
+	</array>
+</dict>
+</plist>
